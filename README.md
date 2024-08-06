@@ -11,7 +11,7 @@ If you want revision, recall or someone teaching you stuff you want to listen to
 
 **Thank you for visiting my repository!❤️**                                                                                                                                                                         
 Here are some ways you can engage more with this:                                                                                                                                                                    
-**Forking** :                                                                                                                                                                                                        
+**Forking** : 
 You can fork this repository to create your own copy where you can experiment with changes without affecting the original codebase. Click the "Fork" button at the top right of this page.
 
 **Contributing** : 
