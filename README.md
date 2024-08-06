@@ -9,8 +9,6 @@ All of the work and learnings from college in Python language are here. Sit back
 There is also a OneShot video's code compilation. Its from a Youtube channel BroCode😎.
 If you want revision, recall or someone teaching you stuff you want to listen to. You must checkout his video in that case.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 **Thank you for visiting my repository!❤️** 
 Here are some ways you can engage more with this:
 **Forking** : 
